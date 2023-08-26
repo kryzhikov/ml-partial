@@ -1,0 +1,35 @@
+tasks:
+  task1_mu:
+    answer: 0.0006627749036916366
+  task1_sigma:
+    answer: 0.03867140190476366
+  task2_normal:
+    answer: 'no'
+  task3_mu:
+    answer: 0
+  task3_sigma:
+    answer: 1
+  task4_90:
+    answer: 0.002157211251258873
+  task4_90_int:
+    answer:
+    - 0.002133464414613086
+    - 0.0021809580879046603
+  task4_95:
+    answer: 0.002157211251258873
+  task4_95_int:
+    answer:
+    - 0.0021298325454790243
+    - 0.002184589957038722
+  task4_99:
+    answer: 0.002157211251258873
+  task4_99_int:
+    answer:
+    - 0.0021208925599182572
+    - 0.002193529942599489
+  task5_corr:
+    answer: 'no'
+  task6_corr_mu:
+    answer: 'no'
+  task6_corr_sigma:
+    answer: 'no'
